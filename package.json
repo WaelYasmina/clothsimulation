@@ -1,0 +1,23 @@
+{
+  "name": "clothsimulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cannon-es": "^0.18.0",
+    "dat.gui": "^0.7.7",
+    "img": "^3.0.3",
+    "three": "^0.133.0"
+  },
+  "devDependencies": {
+    "cssnano": "^5.0.8",
+    "parcel": "^2.7.0",
+    "postcss": "^8.3.8"
+  }
+}
